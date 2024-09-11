@@ -1,1 +1,1 @@
-BiyeKorun_Automation_Testing_on_Cypress
+Automation_Testing_on_Cypress
